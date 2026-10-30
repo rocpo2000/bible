@@ -28,3 +28,6 @@ python3 -m http.server 8000
 그 뒤 http://localhost:8000/ 접속.
 
 
+
+## 배포
+`main` 브랜치에 올리면 GitHub Actions가 GitHub Pages로 자동 게시합니다: https://rocpo2000.github.io/bible/
